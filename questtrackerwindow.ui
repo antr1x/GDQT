@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>QuestTrackerWindow</class>
+ <widget class="QMainWindow" name="QuestTrackerWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>850</width>
+    <height>800</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>850</width>
+    <height>800</height>
+   </size>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="rc.qrc">
+    <normaloff>:/icons/icon.png</normaloff>:/icons/icon.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QGridLayout" name="gridLayout_2" rowstretch="2,0">
+    <item row="1" column="0">
+     <widget class="QTextEdit" name="textEditLog">
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>130</height>
+       </size>
+      </property>
+      <property name="readOnly">
+       <bool>true</bool>
+      </property>
+     </widget>
+    </item>
+    <item row="0" column="0">
+     <widget class="QTabWidget" name="tabQestsTracker">
+      <property name="currentIndex">
+       <number>1</number>
+      </property>
+      <widget class="QWidget" name="tab">
+       <attribute name="title">
+        <string>Quests Tracker</string>
+       </attribute>
+       <layout class="QGridLayout" name="gridLayout_3">
+        <item row="0" column="1">
+         <widget class="QPushButton" name="buttonRefreshData">
+          <property name="minimumSize">
+           <size>
+            <width>150</width>
+            <height>0</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>150</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="text">
+           <string>Refresh</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0" colspan="2">
+         <widget class="QTableView" name="tableViewQuestsList">
+          <attribute name="verticalHeaderVisible">
+           <bool>false</bool>
+          </attribute>
+         </widget>
+        </item>
+        <item row="1" column="0" colspan="2">
+         <widget class="QLineEdit" name="lineEditQuestsFilter">
+          <property name="placeholderText">
+           <string>Quests filter...</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QComboBox" name="comboBoxCharacter"/>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="tab_2">
+       <attribute name="title">
+        <string>Settings</string>
+       </attribute>
+       <layout class="QGridLayout" name="gridLayout_4">
+        <item row="1" column="0">
+         <widget class="QLineEdit" name="lineEditJsonFilePath">
+          <property name="enabled">
+           <bool>false</bool>
+          </property>
+          <property name="toolTip">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the path to quests.json. &lt;/p&gt;&lt;p&gt;This file is distributed with the GD Quests Tracker, but if it's missing, follow the instructions below to generate it.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="placeholderText">
+           <string>Specify the path to quests.json...</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QLineEdit" name="lineEditSavesPath">
+          <property name="enabled">
+           <bool>false</bool>
+          </property>
+          <property name="toolTip">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the main save folder path. Typical paths may vary: &lt;/p&gt;&lt;p&gt;- With cloud saves enabled: &lt;/p&gt;&lt;p&gt;[Drive]:/Program Files (x86)/Steam/userdata/####/219990/remote/save/main &lt;/p&gt;&lt;p&gt;- Without cloud saves:&lt;/p&gt;&lt;p&gt;[Drive]:/Users/[username]/Documents/My Games/Grim Dawn/save/main&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="placeholderText">
+           <string>Specify the main save folder path...</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="1">
+         <widget class="QPushButton" name="buttonBrowseJson">
+          <property name="minimumSize">
+           <size>
+            <width>150</width>
+            <height>0</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>150</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="text">
+           <string>Browse</string>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="0">
+         <widget class="QLineEdit" name="lineEditQstFilesPath">
+          <property name="enabled">
+           <bool>false</bool>
+          </property>
+          <property name="toolTip">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Specify the root directory where all .qst files were extracted.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="placeholderText">
+           <string>Specify the directory for extracted .qst files...</string>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="0" colspan="2">
+         <widget class="QPushButton" name="buttonGenerateJson">
+          <property name="text">
+           <string>Generate Json Database</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="0" colspan="2">
+         <widget class="QLabel" name="label">
+          <property name="text">
+           <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt; &lt;p&gt;The quests.json file is already included with the software in the directory &quot;.../GDQT/resources/&quot;. However, if for some mysterious, possibly alien-related reason it's missing—or if the game has updated, a new addon has been released, quests have been added or removed, or some other unforeseen event has occurred—you can generate a new quest data file by following this guide.&lt;/p&gt; &lt;h2&gt;How to Extract and Generate Quests Data&lt;/h2&gt; &lt;ol&gt; &lt;li&gt;Extract the following quest archives from the Grim Dawn game directory: &lt;ul&gt; &lt;li&gt;Grim Dawn\resources\Quests.arc&lt;/li&gt; &lt;li&gt;Grim Dawn\gdx1\resources\Quests.arc&lt;/li&gt; &lt;li&gt;Grim Dawn\gdx2\resources\Quests.arc&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;Use ArchiveTool.exe to extract these .arc files into a single directory. Ensure all scripts from these archives are placed together for easy management.&lt;/li&gt; &lt;li&gt;In the application, specify the directory path where you've placed all the extracted quest files.&lt;/li&gt; &lt;li&gt;Click the &quot;Generate Json Database&quot; button. This will parse the extracted files and generate the quests.json data file in the .../GDQT/resources/ directory.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Make sure all files are correctly extracted and accessible. Incorrect paths or missing files may result in incomplete or erroneous data generation.&lt;/p&gt; &lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <property name="alignment">
+           <set>Qt::AlignmentFlag::AlignBottom|Qt::AlignmentFlag::AlignLeading|Qt::AlignmentFlag::AlignLeft</set>
+          </property>
+          <property name="wordWrap">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QPushButton" name="buttonBrowseSaves">
+          <property name="minimumSize">
+           <size>
+            <width>150</width>
+            <height>0</height>
+           </size>
+          </property>
+          <property name="maximumSize">
+           <size>
+            <width>150</width>
+            <height>16777215</height>
+           </size>
+          </property>
+          <property name="text">
+           <string>Browse</string>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="1">
+         <widget class="QPushButton" name="buttonBrowseQst">
+          <property name="text">
+           <string>Browse</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0" colspan="2">
+         <widget class="QComboBox" name="comboBoxTheme"/>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>850</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="rc.qrc"/>
+ </resources>
+ <connections/>
+</ui>

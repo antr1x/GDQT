@@ -1,0 +1,1566 @@
+{
+    "0x00199002": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Inferno"
+    },
+    "0x0045c4e8": {
+        "Chapter": "Barrowholm",
+        "QuestName": "The Feast"
+    },
+    "0x0140404a": {
+        "Chapter": "The Trials of Homestead",
+        "QuestName": "Blood Harvest"
+    },
+    "0x0151ef20": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Pest Control"
+    },
+    "0x02749a68": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Blade of Ch'thon"
+    },
+    "0x02852988": {
+        "Chapter": "Witch Gods",
+        "QuestName": "Kymon's Deserters"
+    },
+    "0x038ec144": {
+        "Chapter": "Homestead",
+        "QuestName": "Lumber for the Legion"
+    },
+    "0x039e6438": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "Fate of the Bloodsworn"
+    },
+    "0x05d83a30": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Igor"
+    },
+    "0x06793b70": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "The Hidden Path"
+    },
+    "0x06970e10": {
+        "Chapter": "Deadman's Gulch",
+        "QuestName": "Too Late for Rescue"
+    },
+    "0x06c09e60": {
+        "Chapter": "Homestead",
+        "QuestName": "Burn the Taken"
+    },
+    "0x06e88bc8": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "A Royal Remedy"
+    },
+    "0x06e9f740": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Corruption"
+    },
+    "0x079dfc88": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Betrayer"
+    },
+    "0x081e96a0": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "Now You Owe Me"
+    },
+    "0x0863c400": {
+        "Chapter": "Homestead",
+        "QuestName": "Hidden Wealth"
+    },
+    "0x08932c00": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "Something For Nothing"
+    },
+    "0x08aa4220": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Lost Oligarch"
+    },
+    "0x0969a8e0": {
+        "Chapter": "Barrowholm",
+        "QuestName": "Cast Off the Flesh"
+    },
+    "0x09892ab0": {
+        "Chapter": "Arkovian Foothills",
+        "QuestName": "Vengeance"
+    },
+    "0x0a798c70": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "The Power of Galfang"
+    },
+    "0x0bb74940": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Torraxsteria"
+    },
+    "0x0db402c0": {
+        "Chapter": "The Outlaw Threat",
+        "QuestName": "Murderers and Worse"
+    },
+    "0x0e43b3d0": {
+        "Chapter": "Order of Death's Vigil",
+        "QuestName": "Seals of Binding"
+    },
+    "0x0ed8ba20": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Blooddrinker"
+    },
+    "0x0f0eacf0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Scrap"
+    },
+    "0x0f628e00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Rixna Plaguefeather"
+    },
+    "0x0fd8e110": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Blood of Ch'thon"
+    },
+    "0x10553f40": {
+        "Chapter": "Ugdenbog",
+        "QuestName": "The Wraith of Ugdenbog"
+    },
+    "0x10b28000": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Sanctuary"
+    },
+    "0x10c36380": {
+        "Chapter": "The Outlaw Threat",
+        "QuestName": "A Life for an Eye"
+    },
+    "0x131980e0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Doomsayers"
+    },
+    "0x134da780": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Warden's Pets"
+    },
+    "0x137d3420": {
+        "Chapter": "Homestead",
+        "QuestName": "A Familiar Face"
+    },
+    "0x14a1ab20": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Harvestmen"
+    },
+    "0x168aaa60": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Mortallis"
+    },
+    "0x17168060": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "The Maw of Enaht"
+    },
+    "0x17616920": {
+        "Chapter": "The Resistance",
+        "QuestName": "Kasparov's Experiment)"
+    },
+    "0x176acc00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Nucus'Dal"
+    },
+    "0x18c83b40": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "Byscilla's Plan"
+    },
+    "0x19eeb280": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "Descent into Torment"
+    },
+    "0x1a1369c0": {
+        "Chapter": "The Trials of Homestead",
+        "QuestName": "Reaping What You Sow"
+    },
+    "0x1a712440": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Aether Shard"
+    },
+    "0x1c51e900": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Devourers"
+    },
+    "0x1ca5b820": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Progenitor of Darkness"
+    },
+    "0x1ce68ac0": {
+        "Chapter": "Homestead",
+        "QuestName": "Missing Diary"
+    },
+    "0x1e133180": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Innu'Garbal"
+    },
+    "0x1e20c0c0": {
+        "Chapter": "The Search for Food",
+        "QuestName": "Culling the Swarm"
+    },
+    "0x1e301920": {
+        "Chapter": "Homestead",
+        "QuestName": "A Final Salute"
+    },
+    "0x1e7b52e0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Royal Jelly"
+    },
+    "0x1f608a60": {
+        "Chapter": "Jagged Waste",
+        "QuestName": "Ol' Bloodbriar"
+    },
+    "0x202f3b40": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Sister Crimson"
+    },
+    "0x207597c0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Aether Crystals"
+    },
+    "0x208f5180": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Reynar"
+    },
+    "0x2161fec0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Undergrowth Queen"
+    },
+    "0x21797640": {
+        "Chapter": "The Outlaw Threat",
+        "QuestName": "Cronley's Secret"
+    },
+    "0x21a1c300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Nalloth"
+    },
+    "0x224e5380": {
+        "Chapter": "Order of Death's Vigil",
+        "QuestName": "Seeking the Order"
+    },
+    "0x22d19d40": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Aether Cluster"
+    },
+    "0x23b8a440": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "For the Children"
+    },
+    "0x24a1f840": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ol' Bloodbriar"
+    },
+    "0x24ab2d40": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Conastaria"
+    },
+    "0x25ee9340": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "Worthy of Merit"
+    },
+    "0x2638dd40": {
+        "Chapter": "Kymon's Chosen",
+        "QuestName": "A Pledge to Cairn"
+    },
+    "0x2993c4c0": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "Lost Survivor"
+    },
+    "0x29977dc0": {
+        "Chapter": "The Chthonic Menace",
+        "QuestName": "Betrayal at Fort Ikon"
+    },
+    "0x2a0dea00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Calamity"
+    },
+    "0x2a13f9c0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Korvan Titanovore"
+    },
+    "0x2b2ff440": {
+        "Chapter": "The Search for Ulgrim",
+        "QuestName": "Lost Father"
+    },
+    "0x2b43af80": {
+        "Chapter": "The Resistance",
+        "QuestName": "Waking to Misery"
+    },
+    "0x2baa1b40": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Tainted Brain"
+    },
+    "0x2bd80dc0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Polterrios"
+    },
+    "0x2bebe840": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ludia Starfire"
+    },
+    "0x2c224d00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Tainted Vizier"
+    },
+    "0x2d29bdc0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Nicholas Balthazar"
+    },
+    "0x2e1e8440": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Dominators"
+    },
+    "0x2eb02e00": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "The Origin of the Slith"
+    },
+    "0x2f60ff80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Mageclaw"
+    },
+    "0x2fef17c0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ancient Wendigo"
+    },
+    "0x31d40b80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Mistborn Talisman"
+    },
+    "0x3262c940": {
+        "Chapter": "Jagged Waste",
+        "QuestName": "Pride of Jagged Waste"
+    },
+    "0x32876d00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Azaleon"
+    },
+    "0x32cf5640": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "The Spirit Guide"
+    },
+    "0x330acf80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Bane'Gargoth"
+    },
+    "0x332ca100": {
+        "Chapter": "The Resistance",
+        "QuestName": "And Not a Drop to Drink"
+    },
+    "0x33d57d80": {
+        "Chapter": "Arkovian Foothills",
+        "QuestName": "Clearing the Way"
+    },
+    "0x346c2e00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Guile"
+    },
+    "0x34a70600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Rag'Nadar"
+    },
+    "0x35a43240": {
+        "Chapter": "Coven of Ugdenbog",
+        "QuestName": "A Familiar Witch"
+    },
+    "0x35de72c0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Blade Maidens"
+    },
+    "0x3603f3c0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ancient Heart"
+    },
+    "0x36d56200": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "In Service of Solael"
+    },
+    "0x37e63300": {
+        "Chapter": "Order of Death's Vigil",
+        "QuestName": "The Sacred Ashes"
+    },
+    "0x3887f240": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Fleshweaver Haraxis"
+    },
+    "0x39874b00": {
+        "Chapter": "Jagged Waste",
+        "QuestName": "The Groble Tyrant"
+    },
+    "0x39c1ff00": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "A Sister's Gift"
+    },
+    "0x3a385f80": {
+        "Chapter": "The Chthonic Menace",
+        "QuestName": "The Necropolis"
+    },
+    "0x3ab17cc0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Bloodkeepers"
+    },
+    "0x3b336040": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Prime Matriarch"
+    },
+    "0x3b440600": {
+        "Chapter": "Gloomwald",
+        "QuestName": "The Gloomwald Stash"
+    },
+    "0x3b5344c0": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Korvaak's Champion"
+    },
+    "0x3c42f000": {
+        "Chapter": "The Liberation of Malmouth",
+        "QuestName": "Someone on the Inside"
+    },
+    "0x3d048f00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Rampage"
+    },
+    "0x3d0c5340": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Sandclaw Matriarchs"
+    },
+    "0x3da9cfc0": {
+        "Chapter": "The Liberation of Malmouth",
+        "QuestName": "The Living Factory"
+    },
+    "0x3e2f0540": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Corpse-eaters"
+    },
+    "0x40f6c900": {
+        "Chapter": "The Trials of Homestead",
+        "QuestName": "The Aetherial Farm"
+    },
+    "0x418e3300": {
+        "Chapter": "Order of Death's Vigil",
+        "QuestName": "Service Beyond Death"
+    },
+    "0x42022180": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Animated Preservers"
+    },
+    "0x42ad0600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Equilibrium"
+    },
+    "0x432c8500": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Fleshshaper Hinissius"
+    },
+    "0x4343d580": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Gluttrius'Maw"
+    },
+    "0x434ed700": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "Worthy of Solael"
+    },
+    "0x43c02f80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Weavils"
+    },
+    "0x44079980": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Gorgers"
+    },
+    "0x444cfb80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Mistborn Talisman"
+    },
+    "0x44646c80": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "Old Scars"
+    },
+    "0x44ff6c80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Skybreaker"
+    },
+    "0x48342280": {
+        "Chapter": "The March to Malmouth",
+        "QuestName": "Desperate Measures"
+    },
+    "0x49053200": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "Troll Rampage"
+    },
+    "0x4975e180": {
+        "Chapter": "Malmouth",
+        "QuestName": "Burn The Womb"
+    },
+    "0x49fdbe00": {
+        "Chapter": "Korvan Basin$",
+        "QuestName": "Good Aspirants are Difficult to Find"
+    },
+    "0x4a63bd00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Sicrix"
+    },
+    "0x4af35d00": {
+        "Chapter": "The Trials of Homestead",
+        "QuestName": "The Inquisitor"
+    },
+    "0x4b8d3300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Harbinger of Chaos"
+    },
+    "0x4bedf980": {
+        "Chapter": "The Outcast",
+        "QuestName": "Wrath of the Beast"
+    },
+    "0x4bf82380": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Aetherial Vanguard"
+    },
+    "0x4c22cd00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Cronley's Ascended"
+    },
+    "0x4c906080": {
+        "Chapter": "Witch Gods",
+        "QuestName": "The Word of Rahn"
+    },
+    "0x4cf7c680": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Wrathfire"
+    },
+    "0x4d70d680": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ascended"
+    },
+    "0x4f57ff00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Dreadlords"
+    },
+    "0x50df6780": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Tainted Brain"
+    },
+    "0x51243e00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Emberjaw"
+    },
+    "0x5325a380": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Lord Executioner"
+    },
+    "0x5358ab80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Manticore Alphas"
+    },
+    "0x54304c80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Shieldbreaker"
+    },
+    "0x547b6100": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "The Eye of Ekur"
+    },
+    "0x54d58480": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Grand Priest"
+    },
+    "0x54e4f880": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Carraxus Foul"
+    },
+    "0x554db080": {
+        "Chapter": "The Outlaw Threat",
+        "QuestName": "An Old Threat"
+    },
+    "0x55b89100": {
+        "Chapter": "The Chthonic Menace",
+        "QuestName": "A Forgotten Evil"
+    },
+    "0x55f96b00": {
+        "Chapter": "Broken Hills",
+        "QuestName": "A Merciful End"
+    },
+    "0x56f9e480": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "Find Elsa"
+    },
+    "0x5798ab00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Corpse-eaters"
+    },
+    "0x59364f80": {
+        "Chapter": "The Liberation of Malmouth",
+        "QuestName": "Stoking the Flames"
+    },
+    "0x5a504300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Flamebearer"
+    },
+    "0x5a791600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Briarthorns"
+    },
+    "0x5b849900": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Chthonic Seal"
+    },
+    "0x5bf24780": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "Rhowari Legacy"
+    },
+    "0x5c6e4300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Bargoll"
+    },
+    "0x5e4f0f00": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "Flesh and Iron"
+    },
+    "0x5e95d880": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Voldrak"
+    },
+    "0x5f3cb680": {
+        "Chapter": "The March to Malmouth",
+        "QuestName": "Along the Void's Edge"
+    },
+    "0x5f806100": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "No Room for Weakness"
+    },
+    "0x60712980": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Death's Whisper"
+    },
+    "0x60908980": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Behemoth"
+    },
+    "0x61b94d80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Dominators"
+    },
+    "0x6201b380": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "In Service of Bysmiel"
+    },
+    "0x63541000": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "A Cultist in the Midst"
+    },
+    "0x6428b280": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "The Depths of Old Arkovia"
+    },
+    "0x6432db00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Fleshwarped"
+    },
+    "0x645a3980": {
+        "Chapter": "Kymon's Chosen",
+        "QuestName": "Prove Yourself to the Cause"
+    },
+    "0x650a5f80": {
+        "Chapter": "Fort Ikon",
+        "QuestName": "Legion Retribution"
+    },
+    "0x654baa00": {
+        "Chapter": "Malmouth",
+        "QuestName": "Can't Leave Them"
+    },
+    "0x655e3e00": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "Tomb Brothers"
+    },
+    "0x66367d80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Grum"
+    },
+    "0x6708b880": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Ascended"
+    },
+    "0x67926780": {
+        "Chapter": "The Liberation of Malmouth",
+        "QuestName": "Malmouth, the Fallen City"
+    },
+    "0x6819e480": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Stonewart Trolls"
+    },
+    "0x68425d80": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "Disarming the Enemy"
+    },
+    "0x68a16b80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Salazar"
+    },
+    "0x69240300": {
+        "Chapter": "Kymon's Chosen",
+        "QuestName": "The Sacred Ashes"
+    },
+    "0x6a2c5480": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Cronley's Lackeys"
+    },
+    "0x6a38ff00": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "The Messenger"
+    },
+    "0x6b11f400": {
+        "Chapter": "The March to Malmouth",
+        "QuestName": "Into the Jaws of Madness"
+    },
+    "0x6d568700": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "The Heart of Onarix"
+    },
+    "0x6dae9d00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Hive Royalty"
+    },
+    "0x6f11ca80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Maneater"
+    },
+    "0x6f1ffe80": {
+        "Chapter": "Malmouth",
+        "QuestName": "Family Matters"
+    },
+    "0x6f216300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Decayed"
+    },
+    "0x70525200": {
+        "Chapter": "Jagged Waste",
+        "QuestName": "The Gloomweaver"
+    },
+    "0x70691b80": {
+        "Chapter": "The Resistance",
+        "QuestName": "Securing Burrwitch"
+    },
+    "0x7072e600": {
+        "Chapter": "The Search for Food",
+        "QuestName": "Making a Deal"
+    },
+    "0x71c4c300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Specter"
+    },
+    "0x7249a400": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Bonespeaker"
+    },
+    "0x730f0a80": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "Dangerous Curiosity"
+    },
+    "0x73516780": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "Blood of the Korvan Guardians"
+    },
+    "0x76126800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Marrowdrinker"
+    },
+    "0x76c3b780": {
+        "Chapter": "Malmouth",
+        "QuestName": "Hargate's Mysteries"
+    },
+    "0x76fdfd80": {
+        "Chapter": "The Trials of Homestead",
+        "QuestName": "The Way North"
+    },
+    "0x77d47380": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Regurgitators"
+    },
+    "0x78d2b380": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Stormblood"
+    },
+    "0x7a57cb00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Razorfeather"
+    },
+    "0x7ae20500": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Venomtongue"
+    },
+    "0x7b920580": {
+        "Chapter": "Homestead",
+        "QuestName": "A Stranger in Need"
+    },
+    "0x7b9b5700": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "Deeper in Debt"
+    },
+    "0x7bada600": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "The Ironclad Chef"
+    },
+    "0x7c79df80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Chthonic Seal"
+    },
+    "0x7cbacd80": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Locust"
+    },
+    "0x7d214c00": {
+        "Chapter": "The Outcast",
+        "QuestName": "Power of our Enemies"
+    },
+    "0x7dafeb80": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "Paying Debts"
+    },
+    "0x7f342c80": {
+        "Chapter": "The Shattered Realm",
+        "QuestName": "Entering the Shattered Realm"
+    },
+    "0x7fb3c780": {
+        "Chapter": "Malmouth",
+        "QuestName": "Savior"
+    },
+    "0x7ff3c600": {
+        "Chapter": "Kymon's Chosen",
+        "QuestName": "The Prophet's Call"
+    },
+    "0x8018aa00": {
+        "Chapter": "Malmouth",
+        "QuestName": "Rictor's Thanks"
+    },
+    "0x80e67400": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Shattered Soul"
+    },
+    "0x81b7c800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Blazing Vanguard"
+    },
+    "0x81ecea00": {
+        "Chapter": "The Resistance",
+        "QuestName": "Helping Out"
+    },
+    "0x82f2df00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Vizier Haxin"
+    },
+    "0x8320e100": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "Kasparov's Gamble"
+    },
+    "0x84041e00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Grimmaw "
+    },
+    "0x84157000": {
+        "Chapter": "Malmouth",
+        "QuestName": "Survivors"
+    },
+    "0x84928a00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Revenant of Death"
+    },
+    "0x8513fa00": {
+        "Chapter": "Kymon's Chosen",
+        "QuestName": "Enemy of My Enemy"
+    },
+    "0x857a6300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Blazebarf"
+    },
+    "0x85b30c00": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "The Forgotten God"
+    },
+    "0x8632b200": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "Dreeg's Usurper"
+    },
+    "0x867b2f00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Fleshwarped Guardians"
+    },
+    "0x867dfe00": {
+        "Chapter": "Homestead",
+        "QuestName": "Trapped and Alone"
+    },
+    "0x87128f00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Vom'Zul"
+    },
+    "0x87aea600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Harrath, Returned"
+    },
+    "0x88682c00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Sanctuary"
+    },
+    "0x8902ef00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Lifedrinker"
+    },
+    "0x89fc0d00": {
+        "Chapter": "Malmouth",
+        "QuestName": "Bring Out Your Dead"
+    },
+    "0x8ae2b700": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Rolderathis"
+    },
+    "0x8bca0200": {
+        "Chapter": "The Chthonic Menace",
+        "QuestName": "The Bane of Cairn"
+    },
+    "0x8be0d600": {
+        "Chapter": "The March to Malmouth",
+        "QuestName": "A Witch's Bargain"
+    },
+    "0x8be45500": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Vanoxxis"
+    },
+    "0x8cb89f00": {
+        "Chapter": "The Outcast",
+        "QuestName": "The Aetherial Witch"
+    },
+    "0x8ce86800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Avronath"
+    },
+    "0x8dcf6d00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Aetherflame"
+    },
+    "0x8e1f2300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Padmanestia"
+    },
+    "0x8e684000": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "Tomb of the Eldritch Sun"
+    },
+    "0x8f568300": {
+        "Chapter": "Jagged Waste",
+        "QuestName": "Manticore Venom"
+    },
+    "0x8f638600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Cavern Crawlers"
+    },
+    "0x90eb3600": {
+        "Chapter": "The Outcast",
+        "QuestName": "The Outcast's Revenge"
+    },
+    "0x90f78a00": {
+        "Chapter": "Malmouth",
+        "QuestName": "Arming the Resistance"
+    },
+    "0x9132e400": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Karroz's Pet"
+    },
+    "0x913b0200": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Chosen of Ch'thon"
+    },
+    "0x9141b600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Void Oppressors"
+    },
+    "0x92f9be00": {
+        "Chapter": "The March to Malmouth",
+        "QuestName": "Devil's Crossing Needs You"
+    },
+    "0x93ae8a00": {
+        "Chapter": "Arkovian Foothills",
+        "QuestName": "The Lost Elder"
+    },
+    "0x9447e200": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Habnor"
+    },
+    "0x94b71f00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Corprus"
+    },
+    "0x9641a900": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "Eldritch Corruption"
+    },
+    "0x965bef00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Scrap"
+    },
+    "0x97163600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Halion, The Rat"
+    },
+    "0x971a1100": {
+        "Chapter": "Malmouth",
+        "QuestName": "Liberate the Liberators"
+    },
+    "0x97909a00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Swillius"
+    },
+    "0x97b34700": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Cripple the Cult"
+    },
+    "0x99652e00": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "In Service of Dreeg"
+    },
+    "0x9a0f3500": {
+        "Chapter": "Void's Edge",
+        "QuestName": "The Bloodsworn Damned"
+    },
+    "0x9b279c00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Luthus'Balok"
+    },
+    "0x9b5cc600": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "Tale of Two Blacksmiths"
+    },
+    "0x9bd99400": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "A Future Foretold"
+    },
+    "0x9c88db00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Aetherial Missive"
+    },
+    "0x9cbc0300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Phabius"
+    },
+    "0x9cf4c900": {
+        "Chapter": "Malmouth",
+        "QuestName": "The Blackiron Docks"
+    },
+    "0x9d1b8800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Withered One"
+    },
+    "0x9db49b00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Sllancar"
+    },
+    "0x9e1c9400": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "The Tome of Eanatum"
+    },
+    "0xa1a40e00": {
+        "Chapter": "The Shattered Realm",
+        "QuestName": "Exploring the Shattered Realm"
+    },
+    "0xa1afb200": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Ravener"
+    },
+    "0xa23ba400": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Bloodlord"
+    },
+    "0xa2979900": {
+        "Chapter": "Malmouth",
+        "QuestName": "Rise of the Insurgence"
+    },
+    "0xa30c3000": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Gloomweaver"
+    },
+    "0xa3c4a500": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "The Emissary"
+    },
+    "0xa4ded500": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Vladris"
+    },
+    "0xa53e9400": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Corruption"
+    },
+    "0xa5744f00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Amalgamation"
+    },
+    "0xa617b600": {
+        "Chapter": "The March to Malmouth",
+        "QuestName": "A Jewel in the Mud"
+    },
+    "0xa6e46100": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "The Inventor's Apprentice"
+    },
+    "0xa6f55100": {
+        "Chapter": "Ugdenbog",
+        "QuestName": "Cleanse the Corruption"
+    },
+    "0xa6f8d000": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Chillpincer"
+    },
+    "0xa8506500": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Blood Rites"
+    },
+    "0xa87beb00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Warden's Slaves"
+    },
+    "0xa8aea000": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Keeper of the Gates"
+    },
+    "0xa8da7100": {
+        "Chapter": "Malmouth",
+        "QuestName": "Mad Ramblings"
+    },
+    "0xa93c9000": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Deepdweller"
+    },
+    "0xac38ba00": {
+        "Chapter": "The Shattered Realm",
+        "QuestName": "Conquering the Shattered Realm"
+    },
+    "0xac6c3500": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Unravelers"
+    },
+    "0xae4c6100": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Archon Barthollem"
+    },
+    "0xaf0cde00": {
+        "Chapter": "Malmouth",
+        "QuestName": "The Other You"
+    },
+    "0xaf189800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Herald of Flame"
+    },
+    "0xafcf1b00": {
+        "Chapter": "The Outcast",
+        "QuestName": "Secrets of the Lost"
+    },
+    "0xb01cde00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Grand Viziers"
+    },
+    "0xb1129c00": {
+        "Chapter": "Arkovian Foothills",
+        "QuestName": "A Family Crisis"
+    },
+    "0xb211f700": {
+        "Chapter": "The Search for Food",
+        "QuestName": "Infested Fields"
+    },
+    "0xb277a000": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Bruiser"
+    },
+    "0xb3558700": {
+        "Chapter": "The March to Malmouth",
+        "QuestName": "A Jewel in the Mud"
+    },
+    "0xb40cda00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Zarthuzellan"
+    },
+    "0xb48f5e00": {
+        "Chapter": "Malmouth",
+        "QuestName": "A Sister's Love"
+    },
+    "0xb4e39200": {
+        "Chapter": "Coven of Ugdenbog",
+        "QuestName": "Future Sisters"
+    },
+    "0xb5444700": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ruination"
+    },
+    "0xb548f800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Eternal Ilgorr"
+    },
+    "0xb561ce00": {
+        "Chapter": "The Search for Food",
+        "QuestName": "We Need Food"
+    },
+    "0xb66d7c00": {
+        "Chapter": "The Shattered Realm",
+        "QuestName": "Mastering the Shattered Realm"
+    },
+    "0xb7036200": {
+        "Chapter": "The March to Malmouth",
+        "QuestName": "Return to Inquisitor Creed"
+    },
+    "0xb74dba00": {
+        "Chapter": "The Search for Food",
+        "QuestName": "A Timely Arrival"
+    },
+    "0xb9197800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Reanimators"
+    },
+    "0xb9857c00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Queen Ravna"
+    },
+    "0xbad73b00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ragarroth the Tormented"
+    },
+    "0xbadd4100": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Chthonic Seal"
+    },
+    "0xbb668600": {
+        "Chapter": "Coven of Ugdenbog",
+        "QuestName": "The Coven's Walls"
+    },
+    "0xbbc12700": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Bloodlord"
+    },
+    "0xbdaac200": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Steward of Darkness"
+    },
+    "0xbdabf200": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Stormtitan"
+    },
+    "0xbff57600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Bloodfeast"
+    },
+    "0xc10e0500": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Venomgaze"
+    },
+    "0xc13d5500": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Cripple the Cult"
+    },
+    "0xc2a19d00": {
+        "Chapter": "Coven of Ugdenbog",
+        "QuestName": "Pruning the Weeds"
+    },
+    "0xc36c5f00": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "A Stranger Beckons"
+    },
+    "0xc3feed00": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "That Good Old Slith Charm"
+    },
+    "0xc4296900": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Keynen"
+    },
+    "0xc5441100": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Poisoned Garden"
+    },
+    "0xc5710500": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "A Mother's Gift"
+    },
+    "0xc6e6a300": {
+        "Chapter": "Fort Ikon",
+        "QuestName": "Precious Resources"
+    },
+    "0xc80eff00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Children of Arkovia"
+    },
+    "0xc86da600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Bloodlord"
+    },
+    "0xc8e3d500": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "The Eldritch Trials"
+    },
+    "0xc92e7200": {
+        "Chapter": "The Outlaw Threat",
+        "QuestName": "The Warrior Among Rovers"
+    },
+    "0xc93cac00": {
+        "Chapter": "Coven of Ugdenbog",
+        "QuestName": "Allure of the Wendigo"
+    },
+    "0xc9d09900": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Varnox"
+    },
+    "0xca968200": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "The Lost Caravan"
+    },
+    "0xcc8f7e00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Blood of Ch'thon"
+    },
+    "0xcc9e4b00": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "The Seamstress"
+    },
+    "0xce0bc900": {
+        "Chapter": "Wightmire",
+        "QuestName": "A Rover Rescue"
+    },
+    "0xce15d900": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Guardian Yaharum"
+    },
+    "0xcf77d200": {
+        "Chapter": "Coven of Ugdenbog",
+        "QuestName": "Power in the Circles"
+    },
+    "0xcf9df700": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Malkadarr"
+    },
+    "0xcfdee000": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "Welcome to Devil's Crossing"
+    },
+    "0xd19b9600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Slathra"
+    },
+    "0xd48a6000": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Imps"
+    },
+    "0xd4afdd00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Revenants"
+    },
+    "0xd5d7cd00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ancient Heart"
+    },
+    "0xd631d200": {
+        "Chapter": "The Resistance",
+        "QuestName": "The Warden"
+    },
+    "0xd6769300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ludia Bloodwhisper"
+    },
+    "0xd7439b00": {
+        "Chapter": "Homestead",
+        "QuestName": "Lost Armaments"
+    },
+    "0xd75a0d00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ulazor"
+    },
+    "0xd8ac3f00": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "A Strange Key"
+    },
+    "0xda527e00": {
+        "Chapter": "Kymon's Chosen",
+        "QuestName": "Braving the Void"
+    },
+    "0xda92a300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Raven"
+    },
+    "0xdbed1700": {
+        "Chapter": "Coven of Ugdenbog",
+        "QuestName": "The Final Seal"
+    },
+    "0xdd14f500": {
+        "Chapter": "Order of Death's Vigil",
+        "QuestName": "Worthy of the Order"
+    },
+    "0xdd67a400": {
+        "Chapter": "The Liberation of Malmouth",
+        "QuestName": "For the People"
+    },
+    "0xdd680800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Tainted Brains"
+    },
+    "0xdd7ee300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ruination"
+    },
+    "0xddd85e00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Rolderathis"
+    },
+    "0xdf0dcc00": {
+        "Chapter": "The Trials of Homestead",
+        "QuestName": "Allies Among the Ashes"
+    },
+    "0xdf9a0b00": {
+        "Chapter": "Order of Death's Vigil",
+        "QuestName": "The Search for Uroboruuk"
+    },
+    "0xdfc0ae00": {
+        "Chapter": "The Outcast",
+        "QuestName": "Black Heart of the Void"
+    },
+    "0xdfff5100": {
+        "Chapter": "Kymon's Chosen",
+        "QuestName": "Making a Stand"
+    },
+    "0xe01a6900": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Vagarroth"
+    },
+    "0xe1282900": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Architects of Flesh"
+    },
+    "0xe2200700": {
+        "Chapter": "Barrowholm",
+        "QuestName": "Wendigo Wards"
+    },
+    "0xe35dfb00": {
+        "Chapter": "Korvan Basin",
+        "QuestName": "Preemptive Strike"
+    },
+    "0xe495a900": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Blazragarus"
+    },
+    "0xe4d04100": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Bountiful Blood"
+    },
+    "0xe4e82300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Packla"
+    },
+    "0xe5409800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Lord of Lost Souls"
+    },
+    "0xe5cf3800": {
+        "Chapter": "Devil's Crossing",
+        "QuestName": "A Sacrifice"
+    },
+    "0xe6a00600": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "Paying Tributes"
+    },
+    "0xe6bfed00": {
+        "Chapter": "Old Arkovia",
+        "QuestName": "Annals of Arkovia"
+    },
+    "0xe88ae000": {
+        "Chapter": "Barrowholm",
+        "QuestName": "Travelers Beware"
+    },
+    "0xe8a74600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Aetherial Vanguard"
+    },
+    "0xeabf6800": {
+        "Chapter": "Order of Death's Vigil",
+        "QuestName": "A Catalyst"
+    },
+    "0xebf8e100": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Beating Hearts"
+    },
+    "0xec289700": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: The Oligarchs"
+    },
+    "0xec2c9900": {
+        "Chapter": "Kymon's Chosen",
+        "QuestName": "Kymon's Secret"
+    },
+    "0xecd33000": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Mossflingers"
+    },
+    "0xef660d00": {
+        "Chapter": "Barrowholm",
+        "QuestName": "Mine Pests"
+    },
+    "0xf1fbfb00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Master of the Pit"
+    },
+    "0xf2c96700": {
+        "Chapter": "The Liberation of Malmouth",
+        "QuestName": "Tip of the Spear"
+    },
+    "0xf2e91500": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Glacier"
+    },
+    "0xf3264c00": {
+        "Chapter": "Witch Gods",
+        "QuestName": "The Future Is Madness"
+    },
+    "0xf358e800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Cronley's Forges"
+    },
+    "0xf3e30c00": {
+        "Chapter": "The Eldritch Sun",
+        "QuestName": "Loyalty to the Three"
+    },
+    "0xf4a2c300": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Yoknar"
+    },
+    "0xf77fee00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Skeletal Knights"
+    },
+    "0xf95fe200": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Ballior"
+    },
+    "0xf9d19800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Squall"
+    },
+    "0xf9f30700": {
+        "Chapter": "Barrowholm",
+        "QuestName": "Meddling Witch"
+    },
+    "0xfa818800": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Shattered Soul"
+    },
+    "0xfb6a6a00": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Brother Segarius"
+    },
+    "0xfdcd4500": {
+        "Chapter": "The Trials of Homestead",
+        "QuestName": "The Black Legion's Finest"
+    },
+    "0xfe10e300": {
+        "Chapter": "Order of Death's Vigil",
+        "QuestName": "A Pledge to Cairn"
+    },
+    "0xfed00100": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Skeletal Golems"
+    },
+    "0xff588600": {
+        "Chapter": "Bounties",
+        "QuestName": "Bounty: Tainted Brain"
+    },
+    "0xff709c00": {
+        "Chapter": "Fort Ikon",
+        "QuestName": "Cult Activity"
+    }
+}

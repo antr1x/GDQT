@@ -1,0 +1,5 @@
+# Ignore build directory
+build/
+
+# Ignore user-specific CMake configuration file
+CMakeLists.txt.user
