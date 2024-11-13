@@ -1,4 +1,4 @@
-# GDQT - Grim Dawn Quest Tracker
+# GDQT - Grim Dawn Quests Tracker
 
 **GDQT** is a quest-tracking tool for **Grim Dawn**.
 
@@ -45,7 +45,7 @@ This will package all required dependencies into the `release_package` directory
 
 ## Copyright Notice
 
-**GDQT - Grim Dawn Quest Tracker** is a fan-made utility created for **educational and personal use only**. This project is in no way intended to infringe upon the intellectual property rights of the developers and publishers of *Grim Dawn*, **Crate Entertainment**. I fully respect their rights and acknowledge that all assets, such as quest files, save files, and other in-game content, are the sole property of Crate Entertainment. GDQT simply reads data from these files to provide players with a convenient way to track their quest progress in the game.
+**GDQT - Grim Dawn Quests Tracker** is a fan-made utility created for **educational and personal use only**. This project is in no way intended to infringe upon the intellectual property rights of the developers and publishers of *Grim Dawn*, **Crate Entertainment**. I fully respect their rights and acknowledge that all assets, such as quest files, save files, and other in-game content, are the sole property of Crate Entertainment. GDQT simply reads data from these files to provide players with a convenient way to track their quest progress in the game.
 
 ### Icon Usage
 
