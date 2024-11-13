@@ -30,12 +30,17 @@ The `resources` folder is already included in the Git repository for convenience
 
 To build a standalone version of GDQT, use the **windeployqt** tool that comes with the Qt Creator. Follow these steps:
 
-1. Create a directory for the release package:
+1. Navigate to the release build directory where `GDQT.exe` is located, for example:
+   ```bash
+   cd ../GDQT/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/
+   ```
+
+2. Create a directory for the release package:
    ```bash
    mkdir release_package
    ```
 
-2. Run the deployment tool to copy all necessary dependencies:
+3. Run the deployment tool to copy all necessary dependencies:
    ```bash
    C:\Qt\6.8.0\mingw_64\bin\windeployqt6.exe --dir .\release_package .\GDQT.exe
    ```
