@@ -44,7 +44,13 @@ To build a standalone version of GDQT, use the **windeployqt** tool that comes w
    ```bash
    C:\Qt\6.8.0\mingw_64\bin\windeployqt6.exe --dir .\release_package .\GDQT.exe
    ```
-   Note: The path to `windeployqt6.exe` may vary depending on the version and installation path of Qt. Adjust the path as needed.
+   *Note:* The path to `windeployqt6.exe` may vary depending on the version and installation path of Qt. Adjust the path as needed.
+
+4. Copy `GDQT.exe` into the deployment directory:
+   ```bash
+   copy GDQT.exe .\release_package\
+   ```
+   *Note:* You can manually copy the `GDQT.exe` file into the `release_package` directory.)
 
 This will package all required dependencies into the `release_package` directory, making GDQT ready for distribution as a standalone application.
 
